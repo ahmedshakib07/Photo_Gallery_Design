@@ -1,1 +1,0 @@
-# Photo_Gallery_Design
